@@ -1,0 +1,33 @@
+name: riverpod_mvcs_example
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+
+environment:
+  sdk: ">=2.16.2 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  flutter_riverpod: 2.0.0-dev.5
+  freezed_annotation: ^2.0.3
+  d_chart: ^0.0.4
+  json_annotation: ^4.4.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^1.0.0
+  build_runner: ^2.1.10
+  freezed: ^2.0.3
+  json_serializable: "^6.1.5"
+
+flutter:
+  uses-material-design: true
+
