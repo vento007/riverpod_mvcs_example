@@ -28,18 +28,11 @@ class ChartController extends StateNotifier<ChartData> {
         chartData = const ChartData.offline();
       }
 
-
-
-      nextState = state;
       nextState = chartData;
       state = nextState;
 
-
     });
 
-
-
-    nextState = state;
     nextState = chartData;
     state = nextState;
   }
