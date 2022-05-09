@@ -1,6 +1,6 @@
 # riverpod_mvcs_example
 
-simple Riverpod/mvc+s example
+simple Dart + Flutter Riverpod/mvc+s example
 
 ## description
 
@@ -12,4 +12,4 @@ simple Riverpod/mvc+s example
 
 ## Gallery
 
-<img src="https://github.com/vento007/riverpod_mvcs_example/blob/master/images/riverpod_mvcs_example%205_9_2022%209_18_54%20AM.png" width="340" >   
+<img src="https://github.com/vento007/riverpod_mvcs_example/blob/master/images/riverpod_mvcs_example%205_9_2022%209_18_54%20AM.png" width="340" >
